@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Roboto+Slab:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.OpenSans{
+  font-family: 'Open Sans';
+}
+.Roboto{
+  font-family: 'Roboto Slab';
+}
+.Playfair{
+  font-family: 'Playfair Display';
+}
+.Sevillana{
+  font-family: 'Sevillana';
+}
+.Carattere{
+  font-family: 'Carattere';
+}
+.SerifDisplay{
+  font-family: 'DM Serif Display';
+}
